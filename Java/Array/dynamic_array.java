@@ -27,3 +27,13 @@ public class Main {
        
     }
 }
+
+/* 
+output: 
+0 idx  value is 10
+1 idx  value is 30
+2 idx  value is -10
+idx 0 value now 120
+120
+-10
+*/ 

@@ -14,3 +14,12 @@ int main()
     }
     return 0;
 }
+
+/*
+output: 
+1 square value is 1
+2 square value is 4
+3 square value is 9
+4 square value is 16
+5 square value is 25
+*/
